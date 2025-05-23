@@ -8,14 +8,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Design'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'Other'
+      url: '/other/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   logo_image: 
