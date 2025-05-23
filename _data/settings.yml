@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Design'
       url: '/'
     - title: 'Research'
-      url: '/research/'
+      url: '/research/index.html'
     - title: 'Other'
-      url: '/other/'
+      url: '/other/index.html'
     - title: 'About'
       url: '/about'
 
