@@ -3,16 +3,16 @@ title: 'Demo Project'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Dinno is a Robot provided by Softbank (Pepper Model) and is programmed in Python. The robots' purpose is to engage, entertain and assist customers in day to day tasks in Cosmote Shops. The robot is used to advertise products, provide instructions on where to find a product and answers questions on prices and special offers. I have developed voice interaction applications for some of the case studies, I have assisted in user testing and behavioural data collection for further research and development in collaboration with research centres. For example, we are collaborating with Athina, a research center specializing in linguistics and informatics in order to improve machine learning algorithms of speech recognition – i.e. cases of children speaking, multilingual applications.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+I have mostly focused on the design of dialog flows and front end development in python integrating various APIs . The majority of tasks I have programmed are informative dialogs and text to speech and speech to text conversions. I focused on tasks such as: provide users with data on Cosmote’s products and services, tell jokes based on age and sex (using age and sex recognition services) or provide real time information on weather and other popular subjects using APIs and parse data from websites.
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -97,10 +97,3 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 
 ---
 
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>

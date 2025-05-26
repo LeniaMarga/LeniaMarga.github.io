@@ -13,6 +13,13 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  research_projects:
+    output: true
+    permalink: /research/:slug
+  others:
+    output: true
+    permalink: /other/:slug
+
 
 defaults:
   -
@@ -38,6 +45,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "research_projects"
+    values:
+      layout: "project"     
 
 markdown: kramdown
 
