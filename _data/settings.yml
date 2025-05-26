@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Lenia Margariti
+  site_title: Lenia Margariti, Ph.D
   favicon_image: /images/faviconl2.png
 
 header_settings:
@@ -23,8 +23,8 @@ footer_settings:
   footer_tagline: Works
 
 grid_settings:
-  overlay_opacity: 0.8
-  grid_spacing: 10
+  overlay_opacity: 0.7
+  grid_spacing: 15
 
 contact_settings:
   form_action: ''
@@ -66,9 +66,11 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  # accent_color: '#F2784B'
+  accent_color: '#13a7d4'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  # overlay_background_color: '#F2784B'
+  overlay_background_color: '#13a7d4'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
