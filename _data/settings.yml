@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Lenia Margariti
-  favicon_image: /images/faviconl.png
+  favicon_image: /images/faviconl2.png
 
 header_settings:
   logo_image: 
@@ -8,12 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Design'
+    - title: 'Design+Research'
       url: '/'
     - title: 'Research'
       url: '/research/'
-    - title: 'Other'
-      url: '/other/'
+    - title: 'Design'
+      url: '/design/'
     - title: 'About'
       url: '/about'
 
