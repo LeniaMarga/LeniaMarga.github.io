@@ -8,11 +8,12 @@
 	padding: 0 $grid-spacing/2;
 }
 
+@media screen and (min-width: 800px) {
 .portfolio-wrap {
 	margin-left: 200px;
 	margin-right: 200px;
 }
-
+}
 .portfolio-item {
 	position: relative;
 	padding: $grid-spacing/2;
@@ -36,9 +37,11 @@
 	}
 }
 
-.portfolio-item__image {
+
+  .portfolio-item__image {
 	width: 100%;
-}
+  }
+
 
 .portfolio-item__content {
 	position: absolute;
