@@ -23,8 +23,8 @@ footer_settings:
   footer_tagline: Works
 
 grid_settings:
-  overlay_opacity: 0.7
-  grid_spacing: 15
+  overlay_opacity: 0.5
+  grid_spacing: 30
 
 contact_settings:
   form_action: ''
@@ -70,7 +70,8 @@ color_settings:
   accent_color: '#13a7d4'
   border_color: '#dddddd'
   # overlay_background_color: '#F2784B'
-  overlay_background_color: '#13a7d4'
+  # overlay_background_color: '#13a7d4'
+  overlay_background_color: '#000000'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'

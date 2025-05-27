@@ -6,35 +6,39 @@ featured_image: /images/social.jpg
 ---
 
 <section class="intro">
-
+<!-- 
 	<div class="wrap">
 
-		<h1>A beautiful, minimal two-column
-		portfolio theme built for Jekyll.</h1>
+		<h1>Interaction Design Research</h1>
 		<p>Duet makes your work look simply awesome.</p>
 
-	</div>
+	</div> -->
 
 </section>
 
 <section class="portfolio">
-
+	<div class="content-wrap portfolio-wrap" style="padding-left:15px; margin-top: -80px; margin-bottom: 50px;">
+		<h2>Design Research</h2>
+	</div>
 	<div class="content-wrap portfolio-wrap">
-
+	
 		{% for project in site.projects reversed %}
 
 		<div class="portfolio-item">
-
+            <a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+				   <h4 class="portfolio-item__out_title" style="color: black;">{{ project.title }}</h4> 
+			</a>
 			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
-
+				
 				<div class="portfolio-item__image">
 					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
 				</div>
-
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
 						<h2 class="portfolio-item__title">{{ project.title }}</h2>
 						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<p class="portfolio-item__subtitle">{{ project.date }}</p>
+						<p class="portfolio-item__subtitle">{{ project.description }}</p>
 					</div>
 				</div>
 
