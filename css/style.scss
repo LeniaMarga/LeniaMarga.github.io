@@ -60,6 +60,7 @@ $grid-item-title-large: {{ site.data.settings.font_settings.grid_item_title.larg
 $grid-item-title-weight: {{ site.data.settings.font_settings.grid_item_title.weight }};
 $grid-item-title-spacing: {{ site.data.settings.font_settings.grid_item_title.letter_spacing }}em;
 
+$grid-item-subtitle-extra-small: {{ site.data.settings.font_settings.grid_item_subtitle.extra_small_size }}px;
 $grid-item-subtitle-small: {{ site.data.settings.font_settings.grid_item_subtitle.small_size }}px;
 $grid-item-subtitle-medium: {{ site.data.settings.font_settings.grid_item_subtitle.medium_size }}px;
 $grid-item-subtitle-large: {{ site.data.settings.font_settings.grid_item_subtitle.large_size }}px;

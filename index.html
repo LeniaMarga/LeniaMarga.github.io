@@ -6,19 +6,19 @@ featured_image: /images/social.jpg
 ---
 
 <section class="intro">
-<!-- 
+
 	<div class="wrap">
 
-		<h1>Interaction Design Research</h1>
-		<p>Duet makes your work look simply awesome.</p>
+		<!-- <h1>Interaction Design Research</h1>
+		<p>Duet makes your work look simply awesome.</p> -->
 
-	</div> -->
+	</div> 
 
 </section>
 
 <section class="portfolio">
-	<div class="content-wrap portfolio-wrap" style="padding-left:15px; margin-top: -80px; margin-bottom: 50px;">
-		<h2>Design Research</h2>
+	<div class="content-wrap portfolio-wrap page-title">
+		<h2 style="font-weight: 550;">Design Research</h2>
 	</div>
 	<div class="content-wrap portfolio-wrap">
 	
@@ -26,7 +26,10 @@ featured_image: /images/social.jpg
 
 		<div class="portfolio-item">
             <a class="portfolio-item__link" href="{{ project.url | relative_url }}">
-				   <h4 class="portfolio-item__out_title" style="color: black;">{{ project.title }}</h4> 
+				<div class="parent">
+				   <div class="child"><h4 class="portfolio-item__out_title" style="color: black;">{{ project.title }}</h4> </div>
+				   <div class="child"><h4 class="portfolio-item__out_timeline" style="color: black;">{{ project.timeline }}</h4> </div>
+				</div>
 			</a>
 			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 				
@@ -37,8 +40,8 @@ featured_image: /images/social.jpg
 					<div class="portfolio-item__info">
 						<h2 class="portfolio-item__title">{{ project.title }}</h2>
 						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
-						<p class="portfolio-item__subtitle">{{ project.date }}</p>
-						<p class="portfolio-item__subtitle">{{ project.description }}</p>
+						<p class="portfolio-item__details">{{ project.timeline }}</p> 
+						<p class="portfolio-item__details">{{ project.description }}</p>
 					</div>
 				</div>
 

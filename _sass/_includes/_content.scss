@@ -31,22 +31,22 @@
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
 		margin-left: auto;
 		margin-right: auto;
-		padding-left: 30px;
-		padding-right: 30px;
+		padding-left: 20px;
+		padding-right: 20px;
 		max-width: 500px;
 
 		@include mq(tabletp) {
 			padding-left: 0;
 			padding-right: 0;
-			max-width: 70%;
+			max-width: 60%;
 		}
 
 		@include mq(tabletl) {
-			max-width: 65%;
+			max-width: 80%;
 		}
 
 		@include mq(laptop) {
-			max-width: 60%;
+			max-width: 65%;
 		}
 	}
 
@@ -295,15 +295,17 @@
 .image-wrap,
 .video-wrap {
 	position: relative;
-	max-width: 90%;
+	max-width: 70%;
 	margin: 20px auto;
 
 	@include mq(tabletp) {
 		margin: 30px auto;
+		max-width: 65%;
 	}
 
 	@include mq(laptop) {
 		margin: 40px auto;
+		max-width: 60%;
 	}
 
 	&:first-child {

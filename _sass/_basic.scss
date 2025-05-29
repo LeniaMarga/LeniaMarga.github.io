@@ -374,19 +374,19 @@ section {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 30px;
-	max-width: 500px;
+	// max-width: 500px;
 
 	@include mq(tabletp) {
 		padding: 0;
-		max-width: 70%;
+		max-width: 60%;
 	}
 
 	@include mq(tabletl) {
-		max-width: 65%;
+		max-width: 60%;
 	}
 
 	@include mq(laptop) {
-		max-width: 60%;
+		max-width: 65%;
 	}
 }
 

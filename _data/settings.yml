@@ -80,6 +80,10 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
   title_font: '"Muli", sans-serif'
   body_font: '"Muli", sans-serif'
+  # font_embed: <link href="https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">  
+  # title_font: '"Ancizar Sans", sans-serif'
+  body_font: '"Mulish", sans-serif'
+  title_font: '"Mulish", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
@@ -92,7 +96,7 @@ font_settings:
     small_size: 30
     medium_size: 15
     large_size: 17
-    weight: 600
+    weight: 350
     letter_spacing: 0
   grid_item_title:
     small_size: 22
@@ -101,6 +105,7 @@ font_settings:
     weight: 700
     letter_spacing: -0.02
   grid_item_subtitle:
+    extra_small_size: 10
     small_size: 15
     medium_size: 17
     large_size: 19
