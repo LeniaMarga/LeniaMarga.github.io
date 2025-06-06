@@ -390,7 +390,22 @@ section {
 	}
 }
 
+.title {
 
+	font-size: $h2-medium;
+	font-weight: $h2-weight;
+	line-height: $h2-lineheight;
+	letter-spacing: $h2-spacing;
+
+	@include mq(tabletp) {
+		font-size: $h2-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $h2-large;
+	}
+
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Buy CTA
 

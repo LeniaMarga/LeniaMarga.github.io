@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Lenia Margariti, Ph.D
+  site_title: Lenia Margariti, PhD
   favicon_image: /images/faviconl2.png
 
 header_settings:
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Design+Research'
+    - title: 'Design Research'
       url: '/'
     - title: 'Research'
       url: '/research/'
