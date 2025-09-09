@@ -11,15 +11,21 @@ In [COSMOTE-DT IT Innovation Team](https://www.cosmote.gr/static/otegroup/en/pag
 
 ![](/images/content/Robot/cover_sq.png)
 
-Through a series of demo deployments in a COSMOTE flagship stores at Glyfada and Marousi, Athens, our team collected observations to support research activities, while entertaining customers and engaging them in learning to interact with the Robot. Initially, these demo deployments were mostly entertaining - for example, we programmed Pepper to tell the weather within the next hours or tell jokes -  but grew complex over time - for instance, 
+Through a series of demo deployments in a COSMOTE flagship stores at Glyfada and Marousi, Athens, our team collected observations to support research activities, while entertaining customers and engaging them in learning to interact with the Robot. Initially, these demo deployments were mostly entertaining - for example, we programmed Pepper to provide real time weather forecast for the next hours or tell jokes -  but grew complex over time - for instance, scanning someone's face, identifying age and gender, and providing targeted advertisement of products through voice and visual feedback (tablet screen).
 
-![](/images/content/Robot/dinno4.mp4)
 
-My role in the project was twofold. On the one hand, I worked with the rest of the IT Innovation team in designing and programming apps for demo deployments. I worked I have developed voice interaction applications for some of the case studies, I have assisted in user testing and behavioural data collection for further research and development in collaboration with research centres. 
+<video width="640" height="360" controls>
+  <source src="/images/content/Robot/dinno4.mp4" type="video/mp4">
+</video> 
+
+My role in the project was twofold. On the one hand, I worked with the rest of the IT Innovation team in designing and programming apps for demo deployments. I worked I have developed voice interaction applications for some of the case studies, 
 I have mostly focused on the design of dialog flows and front end development in python integrating various APIs . The majority of tasks I have programmed are informative dialogs and text to speech and speech to text conversions. 
 
 I focused on tasks such as: provide users with data on Cosmote’s products and services, tell jokes based on age and sex (using age and sex recognition services) or provide real time information on weather and other popular subjects using APIs and parse data from websites.
 
+I have assisted in user testing and collecting field observations for further research and development. A specific focus group were children. 
+
+One of the key difficulties in interacting with Pepper was its response time: the Robot needed a few seconds 
 
 
 **Obviously,** we’ve styled up *all the basic* text formatting options 
