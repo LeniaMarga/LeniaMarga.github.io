@@ -14,7 +14,8 @@ In [COSMOTE-DT IT Innovation Team](https://www.cosmote.gr/static/otegroup/en/pag
 Through a series of demo deployments in a COSMOTE flagship stores at Glyfada and Marousi, Athens, our team collected observations to support research activities, while entertaining customers and engaging them in learning to interact with the Robot. Initially, these demo deployments were mostly entertaining - for example, we programmed Pepper to provide real time weather forecast for the next hours or tell jokes -  but grew complex over time - for instance, scanning someone's face, identifying age and gender, and providing targeted advertisement of products through voice and visual feedback (tablet screen).
 
 
-<video width="640" height="360" controls>
+<!-- <video width="640" height="360" controls> -->
+<video controls>
   <source src="/images/content/Robot/dinno4.mp4" type="video/mp4">
 </video> 
 
