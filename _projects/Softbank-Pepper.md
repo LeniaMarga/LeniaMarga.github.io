@@ -15,7 +15,7 @@ Through a series of demo deployments in a COSMOTE flagship stores at Glyfada and
 
 
 <!-- <video width="640" height="360" controls> -->
-<video controls>
+<video width="100%" controls muted>
   <source src="/images/content/Robot/dinno4.mp4" type="video/mp4">
 </video> 
 
