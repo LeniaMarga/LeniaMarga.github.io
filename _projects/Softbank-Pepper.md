@@ -20,8 +20,6 @@ Second, I collected field observations to support research and development activ
 <br><br>
 ![](/images/content/Robot/robot.png)
 <br><br>
-
-<br><br>
-![](/images/content/Robot/cover_sq.png)
+![](/images/content/Robot/robot2.png)
 <br><br>
 
