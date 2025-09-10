@@ -197,7 +197,7 @@ a {
 	text-decoration: none;
 	color: $text-dark-color;
 	// font-weight: $bold-weight;
-	font-weight: $a-weight;
+	font-weight: 450;
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
@@ -387,7 +387,8 @@ section {
 	}
 
 	@include mq(laptop) {
-		max-width: 67%;
+		// max-width: 67%;
+		max-width: 50%;
 	}
 }
 

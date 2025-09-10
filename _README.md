@@ -8,8 +8,8 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 Copy the theme files to your website directory.
 
-To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
-
+To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `bundle exec jekyll serve` to start the Jekyll server.
+see https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally 
 ---
 
 ## Jekyll basics
