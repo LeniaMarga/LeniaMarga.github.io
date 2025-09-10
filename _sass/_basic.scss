@@ -387,7 +387,8 @@ section {
 	}
 
 	@include mq(laptop) {
-		max-width: 67%;
+		// max-width: 67%;
+		max-width: 50%;
 	}
 }
 
