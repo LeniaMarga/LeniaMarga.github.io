@@ -173,6 +173,8 @@ font_settings:
   buttons:
     weight: 400
     letter_spacing: 0
+  a:
+    weight: 450
 
 advanced_settings:
   ajax_loading: true
