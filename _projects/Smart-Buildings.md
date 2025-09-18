@@ -1,7 +1,7 @@
 ---
 title: 'Designing Interactions in Smart Buildings'
 subtitle: 'A series of exploratory studies'
-timeline: 2019-2024
+timeline: 2019-2021
 description: Human-Building Interaction, Human-Centered Smart Buildings, Mixed Design Research, PhD, OpenLab
 featured_image: '/images/content/PhD/demo-building.jpg'
 ---
