@@ -16,7 +16,7 @@ Through a series of demo deployments in a COSMOTE flagship stores at Athens, our
 <br><br>
 My role in the project was twofold. I worked with the rest of the IT Innovation team in designing and programming apps for demo deployments. This involved designing dialog flows, ext to speech/speech to text conversions, front end development in python integrating various APIs, designing interactions for tablet (content, UI), testing and debuging.
 
-Second, I collected field observations to support research and development activities. We specifically focused on children, improving the Robot's response time through combining both tablet and voice interaction loops.
+Second, I collected field observations to support research and development activities. My particular contribution was in improving people's response behaviour to the robo through combining both screen and voice interaction loops. A sub-area of interest included playfull interactions with children, studying children's behaviour around the robot in the store and designing games combining voice and screen interactions, as well as imitating body movements. 
 <br><br>
 ![](/images/content/Robot/robot.png)
 <br><br>

@@ -1,26 +1,21 @@
 ---
-title: 'Pepper'
-subtitle: 'A series of deployments'
-timeline: 2018-2019
-description: Human-Robot Interaction, Voice Interaction, Software, Observation, Deployment, COSMOTE-DT.
-featured_image: '/images/content/Robot/cover_sq.png'
+title: 'Designing Interactions with Data in Smart Buildings'
+subtitle: 'A series of exploratory studies'
+timeline: 2019-2024
+description: Human-Building Interaction, Human-Centered Smart Buildings, Mixed Design Research, PhD, OpenLab
+featured_image: '/images/content/PhD/demo-building.jpg'
 ---
-Focusing on a specific smart office building, I did a series of studies to 
+My PhD work focused on understanding existing pitfalls with smart buildings from a human angle, to inform the design of responsive environments that bring value to their residents. Following a human-centered design approach and focusing on a specific smart office building where the lab is based, I did a series of exporatory studies involving building occupants - including focus groups and design fiction workshops - to understand existing complexities of data collection and use and frame the design space for possible solutions. This early design exploration phase was followed by mixed methods research approaches (i.e. qualitative and quantitative data analyses) to unpack relationships with sensory data, perceived environmental conditions and wellbeing in the built environment. 
+<br><br>
+![](/images/content/PhD/building-data.png)
+<br><br>
+Two publications have been produced from this series of studies. The first focuses on unpacking how the building occupants perceive data collection and use within the smart building - particularly how data is used to improve wellbeing - and speculating on design solutions in that utilize data differently. The paper frames a design agenda for improving smart building’s occupant experiences and increasing the perceivability, accessibility, and usability of data in such buildings - published in the ACM CHI 2023 conference proceedings.
 
-conducted four workshops with 27 participants (building users) over a period of two months, to understand their perceptions, concerns and aspirations about data collection and use within the building. A range of qualitative research methods were employed, such as Focus group discussions, Design Fiction and Story Telling activities.
-This resulted in a design agenda for improving smart building’s occupant experiences and increasing the perceivability, accessibility, and usability of data in such buildings.
-This work was published in the ACM CHI 2023 conference proceedings.
-<br><br>
-<!-- <video width="640" height="360" controls> -->
-<video width="100%" controls muted>
-  <source src="/images/content/Robot/dinno4.mp4" type="video/mp4">
-</video> 
-<br><br>
-My role in the project was twofold. I worked with the rest of the IT Innovation team in designing and programming apps for demo deployments. This involved designing dialog flows, ext to speech/speech to text conversions, front end development in python integrating various APIs, designing interactions for tablet (content, UI), testing and debuging.
+The second focuses on unpacking correlations between wellbeing (self-reported data), perceived environment (e.g. noise, light, temperature) and sensory data (obtained by wearable devices) over a period of remote working (due to COVID-19) - published at Frontiers of Computer Science. 
 
-Second, I collected field observations to support research and development activities. We specifically focused on children, improving the Robot's response time through combining both tablet and voice interaction loops.
 <br><br>
-![](/images/content/Robot/robot.png)
+![](/images/content/PhD/360buildings.png)
+Above: Design Fiction Workshop participants telling stories to speculate about alternative uses of data in smart buildings. The participant envisioned an app whereby all building sensory data are processed to provide recomendations on where to work based on personal preferences/task needed to accomplish - e.g. the most quiet place in the office etc.
 <br><br>
 ![](/images/content/Robot/robot2.png)
 <br><br>
