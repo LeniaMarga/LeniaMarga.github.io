@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Design Research'
+    - title: 'Research'
       url: '/'
     # - title: 'Research'
     #   url: '/research/'
