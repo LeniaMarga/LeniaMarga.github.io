@@ -1,5 +1,5 @@
 ---
-title: 'Interacting with Pepper'
+title: 'Pepper'
 subtitle: 'A series of deployments'
 timeline: 2018-2019
 description: Human-Robot Interaction, Voice Interaction, Software, Observation, Deployment, COSMOTE-DT.
