@@ -1,5 +1,5 @@
 ---
-title: 'Gen AI Workflows'
+title: 'GenAI Workflows'
 subtitle: Co-designing Characters and Storyboards with GenAI and people with Parkinson's
 timeline: 2024-2025
 description: Prompt Engineering, Human-AI interaction, Digital Health, Storyboarding, TORUS project
