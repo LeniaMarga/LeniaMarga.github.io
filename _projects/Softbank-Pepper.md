@@ -14,7 +14,7 @@ Pepper is a customisable humanoid Robot provided by [Softbank](https://us.softba
 <br><br>
 Through a series of demo deployments in a COSMOTE flagship stores at Athens, our team collected observations to support research activities, engaging customers in interacting with the Robot. Initially, these demo deployments were mostly entertaining: for example, we programmed Pepper to provide real time weather forecast for the next hours or tell jokes. Interactions grew complex over time: for instance, scanning someone's face, identifying age and gender, and providing targeted advertisement of products through voice and visual feedback (tablet screen).
 
-My role in the project was twofold. I worked with the rest of the IT Innovation team in designing and programming apps for demo deployments. This involved designing dialog flows, ext to speech/speech to text conversions, front-end development in Python integrating various APIs, designing interactions for tablet (content, UI), testing and debuging.
+My role in the project was twofold. I worked with the rest of the IT Innovation team in designing and programming apps for demo deployments. This involved designing dialog flows, text to speech/speech to text conversions, front-end development in Python integrating various APIs, designing interactions for tablet (content, UI), testing and debuging.
 <br><br>
 ![](/images/content/Robot/robot.png)
 <br><br>
