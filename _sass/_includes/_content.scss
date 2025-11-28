@@ -292,6 +292,16 @@
 	}
 }
 
+
+.row {
+  display: flex;
+  gap: 20px;
+}
+.col {
+  flex: 1; /* equal widths */
+  padding: 30px;
+}
+
 .image-wrap,
 .video-wrap {
 	position: relative;
