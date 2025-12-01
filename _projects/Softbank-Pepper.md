@@ -3,7 +3,7 @@ title: 'Pepper'
 subtitle: 'A series of deployments'
 timeline: 2018-2019
 description: Human-Robot Interaction, Voice Interaction, Software, Observation, Deployment, COSMOTE-DT.
-featured_image: '/images/content/Robot/cover_sq.png'
+featured_image: '/images/content/Robot/cover_rect.png'
 ---
 Pepper is a customisable humanoid Robot provided by [Softbank](https://us.softbankrobotics.com/pepper). Pepper supports programming intuitive interactions that involve natural language, gestures, face recognition and screen interaction. In [COSMOTE-DT IT Innovation Team](https://www.cosmote.gr/static/otegroup/en/page/it_innovation_center_new), we customized the Robot to engage, entertain and assist customers in retail shops. In collaboration with [Athena Research center](https://www.athenarc.gr/en/research), our team was working towards integrating Pepper services with a custom NLP to improve speech recognition and support a wider range of conversations in Greek language with diverse users, as well as improving gestural and voice response sequences. Our aim was ultimately the long term deployment of Pepper in key COSMOTE stores to support and entertain customers - e.g. advertise products, provide instructions on where to find a product and answer questions on prices and special offers. 
 <br><br>
