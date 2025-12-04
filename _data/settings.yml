@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Research'
+    - title: 'Projects'
       url: '/'
     # - title: 'Research'
     #   url: '/research/'
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Works
+  footer_tagline: 
 
 grid_settings:
   overlay_opacity: 0.8

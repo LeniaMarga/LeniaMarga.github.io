@@ -3,7 +3,7 @@ title: Inclusive Meetings
 subtitle: Automated mapping of competitive and collaborative overlapping talk in video meetings.
 timeline: 2021
 description: Inclusive meetings, Future of Work, Data Visualization, Quantitative Analysis, Microsoft Research
-featured_image: '/images/content/MSR/patterns03.png'
+featured_image: '/images/content/MSR/patterns_demo.png'
 ---
 
 Video meetings are notorious for difficulties with conversational turn-taking, which has impacts on inclusion and meeting outcomes. To support more inclusive remote meeting, it would be meaningful to detect non-inclusive behaviours - e.g. someone systematically interrupting the meeting - and design relevant features to support turn taking - e.g. personalized notifications for meeting's attendes, overall meeting inclusion metrics etc. To do so, it is meaningful to be able to automatically detect competitive and collaborative overlapping talk in remote video meetings, in a GDPR-compliant, ethical and non-intrusive manner. With this as the starting point of my internship in Microsoft research, I conducted a data visualization experiment based on automated eyes-off analysis of meeting transcripts, which further evolved into a promising approach of categorising overlapping talk and turn-taking behaviour in meetings. 

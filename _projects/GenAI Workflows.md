@@ -3,7 +3,7 @@ title: 'GenAI Workflows'
 subtitle: Co-designing Characters and Storyboards with GenAI and people with Parkinson's
 timeline: 2024-2025
 description: Prompt Engineering, Human-AI interaction, Digital Health, Storyboarding, TORUS project
-featured_image: '/images/content/GenAI/GenAI-characters2.png'
+featured_image: '/images/content/GenAI/GenAI-demo.png'
 ---
 
 GenAI tools like Midjourney can rapidly produce large volumes of visual content from text prompts, including photorealistic scenes with multiple consistent characters. As such, they are being actively explored as tools for character and storyboard creation by UX professionals and researchers. In principle, GenAI tools offers clear opportunities for cognitive offloading and job effort reduction to rapidly create materials for design teams. Moreover, as GenAI opens new avenues for collaborative content generation through co-shaping prompts and output, further opportunities for teamwork emerge that include non-experts. 
