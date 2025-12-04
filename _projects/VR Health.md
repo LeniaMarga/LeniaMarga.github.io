@@ -11,13 +11,13 @@ The VR health and safety training was implemented and finalized in collaboration
 
 <br><br>
 ![](/images/content/AR-VR/vrtraining.jpg)
-<br><br>
-
+Above: Material for introducing and evaluating the VR training.
 <br><br>
 <!-- <video width="640" height="360" controls> -->
 <video width="100%" controls muted>
   <source src="/images/content/AR-VR/VRtraining.mp4" type="video/mp4">
 </video> 
+Above: User experiencing VR training in internal event.
 <br><br>
 
 I supported the initial stages of the project prior to contractor involvement as a UX designer, gathering requirements from internal teams (e.g. Field Technicians, Health and Safety department etc.), sketching and prototyping VR scenarios to demonstrate potential scenes user interactions for the VR training and to support reaching conscensous between internal stakeholders. After the Enneas (contractor) took over the project's implementation, I assisted in the aesthetic and technical development of the  project and acted as an intermediate between the health and safety department and the contractor to align internal requirements with product features. I worked on designing/improving UI features and conducted iterative user testing and design evaluations to ensure product's useability and user experience. 
@@ -37,10 +37,10 @@ Beyond this specific VR training project, I have participated in designing and d
 
 <br><br>
 ![](/images/content/AR-VR/connectivity.jpg)
-<br><br>
+Above: Connectivity VR demo scene
 <br><br>
 <!-- <video width="640" height="360" controls> -->
 <video width="100%" controls muted>
   <source src="/images/content/AR-VR/connectivity.mp4" type="video/mp4">
 </video> 
-<br><br>
+Above: Short clip from Connectivity VR demo, illustrating connection between smart home features with the central hub.
