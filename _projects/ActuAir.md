@@ -3,7 +3,7 @@ title: ActuAir
 subtitle: A soft robotic installation that displays CO2 level changes in the workplace
 timeline: 2022-2023
 description: Interactive Installation, Soft Robotics, Electronics, Fabrication, Web app, PhD, OpenLab
-featured_image: '/images/content/PhD/ActuAir/ActuAir-demo.png'
+featured_image: '/images/content/PhD/ActuAir/ActuAir-demo2.png'
 ---
 With workplace buildings becoming increasingly sensor-rich environments and amidst climate change and global pandemic pressures, there is novel opportunity for utilizing CO2 data within buildings for awareness and wellbeing purposes. Soft robotics applications have unexplored potentials in this context, with new opportunities emerging for soft robotic architectures to utilize environmental sensory data to support health and wellbeing in the built environment. Example projects involve soft robotics in architectural facades e.g. pneumatic elements that actuate based on external environmental data to improve building’s microclimate. 
 
