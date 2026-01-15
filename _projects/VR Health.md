@@ -3,7 +3,7 @@ title: 'VR/AR'
 subtitle: 'VR/AR Proof of Concepts for Health and Safety and Customer Engagement'
 timeline: 2018-2019
 description: VR/AR, User Experience, Interaction Design, Consulting, COSMOTE-DT.
-featured_image: '/images/content/AR-VR/VR-health-demo.png'
+featured_image: '/images/content/AR-VR/VR-health-demo2.png'
 ---
 As part of my role in [COSMOTE-DT IT Innovation Team](https://www.cosmote.gr/static/otegroup/en/page/it_innovation_center_new) I worked with [Aframe](https://aframe.io/) and [Unity](https://unity.com/learn) (for Oculus Rift, Gear VR and Google VR) to prototype lightweight VR/AR Proof of Concepts for various use cases. The purpose of these prototypes was to communicate, discuss and evaluate interaction concepts and product ideas with internal and external stakeholders prior to committing to collaborations with external partners - e.g. startups -for full-scale end-to-end development of the envisioned product. 
 
@@ -33,7 +33,7 @@ Overall, the product's release was marked with success. Field technicians though
 Above: VR training advertisment material by Enneas.
 <br><br>
 
-Beyond this specific VR training project, I have participated in designing and developing AR/VR demos for various use-cases, predominantly customer engagement. Connectivity was a gamified VR experience showcasing use of smart home equipment provided by COSMOTE-DT. Other use cases included AR games in-store to win credits, and developing an augmented reality product catalog for in-store use. 
+Beyond this specific VR training project, I have participated in designing and developing AR/VR demos for various use-cases, predominantly for customer engagement. Connectivity was a gamified VR experience showcasing use of smart home equipment provided by COSMOTE-DT. Other use cases included AR games in-store to win credits, and augmented reality product catalogs for in-store use. Besides internal projects, I have served as a consultant in B2B partnerships, contributing expertise to the development and deployment of AR/VR applications.
 
 <br><br>
 ![](/images/content/AR-VR/connectivity.jpg)
