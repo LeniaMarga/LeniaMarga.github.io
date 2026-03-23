@@ -12,7 +12,7 @@ featured_image:
 <p>I’m a designer and researcher working at the intersection of technology and human experience. My work is driven by curiosity, creativity, and analytical thinking about human behavior. I thrive on problem solving, whether it’s through prototyping, conducting in-depth user research, or challenging assumptions to uncover new design opportunities. As someone who enjoys both designing and coding, I’m especially drawn to projects that blend technical experimentation with thoughtful, human-centered inquiry. </p>
 
    <p>
-     In the past years, I have worked in Newcastle University (Open Lab, School of Computing), Microsoft Research (internship), Telecomunications (COSMOTE-DT, IT Digitalization & Innovation) and for start up design agencies. My past roles have included design research and prototyping, data analysis, UI/UX and front-end development (Web, Unity).
+     In the past years, I have worked in Newcastle University (Open Lab, School of Computing), Microsoft Research (internship), Telecomunications (COSMOTE-DT, IT Digitalization & Innovation) and for start up design agencies. My past work includes design research and prototyping, data analysis and data visualization, UI/UX and front-end development (Web, Unity).
    </p>
 </div>
 
