@@ -5,20 +5,23 @@ description:
 featured_image: /images/social.jpg
 ---
 
-<!-- <section class="intro"> -->
-	<!-- <div class="wrap2">
-		 <h2 class="title"> Design Research</h2>
-	</div>  -->
-<!-- </section> -->
+<section class="intro"> 
+	<div class="portfolio">
+	    <div class="content-wrap portfolio-wrap">
+		    <div class="portfolio-intro">
+		        <p style="font-weight: 500; font-size:x-large"> UX Design & Research | Human-AI Interaction | Product Innovation </p>
+				<p >Product-minded Human-Centred Design & Research Lead with experience translating user needs into product and innovation decisions, helping teams build trustworthy, human-centred AI-enabled systems. </p> 
+					<!-- I design, prototype and evaluate technologies through participatory, design-led and mixed-methods research, helping teams build trustworthy, human-centred AI-enabled systems.</p> -->
+		    </div>
+	    </div> 
+	</div>
+</section> 
 <section class="portfolio">
-	<!-- <div class="content-wrap portfolio-wrap page-title">
-		<h2 style="font-weight: 550;">Design Research</h2>
-	</div> -->
 	<div class="content-wrap portfolio-wrap">
 	
 		{% for project in site.projects %}  <!--if I want it old first, I put reversed-->
 
-		<div class="portfolio-item" style="margin-top: 10px;">
+		<div class="portfolio-item" style="margin-bottom: 40px;">
             <a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 				<div class="parent">
 				   <div class="child"><h4 class="portfolio-item__out_title" style="color: black;">{{ project.title }}</h4> </div>

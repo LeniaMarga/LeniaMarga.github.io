@@ -1,5 +1,6 @@
 basic_settings:
-  site_title: Lenia Margariti, PhD - IxD 
+  site_title: Lenia Margariti, PhD
+  site_subtitle: Senior UX Researcher | Human-AI Interaction & Digital Health
   site_tagline: Interaction Design | User Experience | Human-Computer Interaction
   favicon_image: /images/faviconl2.png
 
@@ -24,7 +25,9 @@ footer_settings:
   footer_tagline: 
 
 grid_settings:
-  overlay_opacity: 0.8
+  # overlay_opacity: 0.8
+  # overlay_opacity: 0.95
+  overlay_opacity: 1
   grid_spacing: 30
 
 contact_settings:
@@ -105,16 +108,16 @@ font_settings:
     letter_spacing: 0
   grid_item_title:
     small_size: 22
-    medium_size: 30
-    large_size: 35
-    weight: 700
+    medium_size: 27
+    large_size: 30
+    weight: 550
     letter_spacing: -0.02
   grid_item_subtitle:
     extra_small_size: 12
     small_size: 15
     medium_size: 17
     large_size: 19
-    weight: 400
+    weight: 350
     letter_spacing: 0
   h1:
     small_size: 25

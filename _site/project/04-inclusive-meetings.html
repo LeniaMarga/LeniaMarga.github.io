@@ -7,7 +7,7 @@
 
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-	Lenia Margariti, PhD - IxD
+	Lenia Margariti, PhD
 
 	Duet Theme by https://jekyllthemes.io
 	Premium + free Jekyll themes for your blog or website.
@@ -20,17 +20,17 @@
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="/images/faviconl2.png">
-	<title>Inclusive Meeting Patterns – Lenia Margariti, PhD - IxD</title>
+	<title>Inclusive Meetings – Lenia Margariti, PhD</title>
 	<meta name="description" content="Inclusive meetings, Future of Work, Data Visualization, Quantitative Analysis, Microsoft Research">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Inclusive Meeting Patterns – Lenia Margariti, PhD - IxD">
+	<meta name="twitter:title" content="Inclusive Meetings – Lenia Margariti, PhD">
 	<meta name="twitter:description" content="Inclusive meetings, Future of Work, Data Visualization, Quantitative Analysis, Microsoft Research">
 	<meta name="twitter:image:src" content="http://localhost:4000/images/content/MSR/patterns_demo.png">
 
 	<!-- Facebook OpenGraph -->
-	<meta property="og:title" content="Inclusive Meeting Patterns – Lenia Margariti, PhD - IxD" />
+	<meta property="og:title" content="Inclusive Meetings – Lenia Margariti, PhD" />
 	<meta property="og:description" content="Inclusive meetings, Future of Work, Data Visualization, Quantitative Analysis, Microsoft Research" />
 	<meta property="og:image" content="http://localhost:4000/images/content/MSR/patterns_demo.png" />
 
@@ -75,7 +75,7 @@
 
 		
 		<a href="/" class="header__title">
-			Lenia Margariti, PhD - IxD
+			Lenia Margariti, PhD
 		</a>
 		
 
@@ -110,40 +110,82 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="Inclusive Meeting Patterns – Lenia Margariti, PhD - IxD">
+		<div class="page__content" data-page-title="Inclusive Meetings – Lenia Margariti, PhD">
 
 			<section class="intro">
 
 	<div class="wrap">
 
-		<h1>Inclusive Meeting Patterns</h1>
-		<h6>Automated mapping of competitive and collaborative overlapping talk in video meetings.</h6>
-		<h6>2021</h6>
-		<h6>Inclusive meetings, Future of Work, Data Visualization, Quantitative Analysis, Microsoft Research</h6>
+		<h3>Inclusive Meetings</h3>
+		<h5>Automated mapping of competitive and collaborative overlapping talk in video meetings.</h5>
+		<h5>2021</h5>
+		<!-- <h6>Duration: 3 months</h6>
+		<h6>Role: Human-Computer-Interaction Researcher (Microsoft Research)</h6>
+		<h6>Team: Future of Work, D&I</h6>
+		<h6>Methods: Quantitative Research, Data Visualization, PowerBI, RStudio, Plotly</h6>
+		<h6>Impact: Supported research on AI to improve Teams Videoconferencing and support remote meeting inclusion. Developed a GDPR-compliant automated method to extract, visualize and analyse meeting metrics and assess meeting inclusion. Investigated overlapping talk in video meetings and proved that there is possibility to develop meeting behavioural profiles from de-identified meeting metrics.</h6> -->
+		<p><strong>Duration:</strong> 3 months</p>
+		<p><strong>Role:</strong> Human-Computer-Interaction Researcher (Microsoft Research)</p>
+		<p><strong>Team:</strong> Future of Work, D&I</p>
+		<p><strong>Methods:</strong> Quantitative Research, Data Visualization, PowerBI, RStudio, Plotly</p>
+		<p><strong>Impact:</strong> Supported research on AI to improve Teams Videoconferencing and support remote meeting inclusion. Developed a GDPR-compliant automated method to extract, visualize and analyse meeting metrics and assess meeting inclusion. Investigated overlapping talk in video meetings and proved that there is possibility to develop meeting behavioural profiles from de-identified meeting metrics.</p>
+	
+	<p><strong>Overview</strong></p>
 
-	<p>Video meetings are notorious for difficulties with conversational turn-taking, which has impacts on inclusion and meeting outcomes. To support more inclusive remote meeting, it would be meaningful to detect non-inclusive behaviours - e.g. someone systematically interrupting the meeting - and design relevant features to support turn taking - e.g. personalized notifications for meeting’s attendes, overall meeting inclusion metrics etc. To do so, it is meaningful to be able to automatically detect competitive and collaborative overlapping talk in remote video meetings, in a GDPR-compliant, ethical and non-intrusive manner. With this as the starting point of my internship in Microsoft research, I conducted a data visualization experiment based on automated eyes-off analysis of meeting transcripts, which further evolved into a promising approach of categorising overlapping talk and turn-taking behaviour in meetings.</p>
+<p>During my internship with the <a href="https://www.microsoft.com/en-us/research/project/the-new-future-of-work/">Future of Work Cluster at Microsoft Research</a>, I investigated how AI could be used to improve inclusivity and participation in remote meetings.</p>
 
-<p>Drawing on a series of remote meetings (10 series, 34 total meetings, 52 participants) recorded in July-August 2021 by employees of Microsoft Research, I identified and parametrized patterns of cooperative and competitive overlaps of turns. My analysis shows initial success characterizing people’s behaviours as either likely to continue or cede turns based on either the amount of overlap that they produce during other’s turns or the amount of overlap they experience in their own turns. With further development and validation, this GDPR-compliant method could be used to measure inclusion in remote and hybrid meetings, and develop meeting’s behavior profiles.</p>
+<p><strong>Challenge</strong></p>
 
-<p>The relevant paper presents the scalable automatic process to categorize turn-taking patterns in remote meetings based on eyes-off analysis of meeting transcripts. You can find the publication <a href="https://dl.acm.org/doi/10.1145/3491101.3519612">here</a>.</p>
+<p>Video meetings are notorious for difficulties with conversational turn-taking, which has impacts on meeting inclusion, effectiveness and collaboration outcomes. To support more inclusive remote meeting, it would be meaningful to detect non-inclusive behaviours - e.g. someone systematically interrupting the meeting - and design relevant features to support turn taking - e.g. personalized notifications for meeting’s attendes, overall meeting inclusion metrics etc.</p>
 
-<p><br /><br />
-<img src="/images/content/MSR/patterns01.png" alt="" />
+<p>To address this, I developed scalable GDPR-compliant process to automatically extract remote meeting metrics and detect competitive and collaborative overlapping talk in these meetings.</p>
+
+<p><strong>Design &amp; Research Approach</strong></p>
+
+<p>Working with data from 34 remote meetings across 10 meeting series involving 52 Microsoft Research employees, I used this process to identify and classify patterns of overlapping speech, distinguishing between collaborative overlap (supportive interruptions) and competitive overlap (negative interruptive behaviours). I then analysed and visualised (RStudio, PowerBI, Plotly) these interaction patterns to better understand participant behaviour and meeting dynamics.</p>
+
+<!-- <br><br>
+![](/images/content/MSR/patterns01.png)
 Above: An example of initial eyes-in visual analysis of patterns for validation purposes.
-<br /><br />
-<img src="/images/content/MSR/patterns02.png" alt="" />
+<br><br> -->
+<!-- ![](/images/content/MSR/patterns02.png)
 Above: The identified pattern overlap categories. We highlighted short overlaps (Mean=0.92s, Median=0.77s) occuring repeatedly within turns and in the beginning of an overtake (change of turn) as the most promising patterns for further investigation.
-<br /><br />
-<img src="/images/content/MSR/patterns03.png" alt="" />
-Above: Visual identification of patterns in a multiparty meeting (eyes-off transcripts).
-<br /><br />
-<img src="/images/content/MSR/patterns04.png" alt="" />
-<img src="/images/content/MSR/patterns05.png" alt="" />
-Above: Automatic Pattern Identification: Behaviours when initiating turns and when initiating overlap during a turn. This type of automated visual analysis can be meaningful to compare different behaviours of meeting participants within a meeting series, and the basis of developing profiles of turn-taking behaviours.
+<br><br> -->
+<p><img src="/images/content/MSR/patterns03.png" alt="" />
+<em>Above: Visual identification of patterns in a multiparty meeting (eyes-off transcripts).</em>
 <br /><br /></p>
 
+<p><strong>Outcomes</strong></p>
 
-</div>
+<p>The project demonstrated that turn-taking behaviours could be characterised at scale, enabling the creation of behavioural profiles that identified participants who were more likely to hold, cede, or interrupt conversational turns. These insights provided a foundation for developing AI-powered meeting features aimed at improving inclusivity, such as participation analytics, meeting health indicators, and personalised nudges to support balanced discussion.</p>
+
+<p>Key outcomes included:</p>
+<ul>
+  <li>Designing a privacy-preserving, GDPR-compliant process for analysing meeting behaviours from transcript data.</li>
+  <li>Developing scalable approaches for identifying conversational patterns associated with meeting inclusion and participation.</li>
+  <li>Generating actionable insights for AI-driven workplace tools that support more effective and inclusive collaboration.</li>
+  <li>Contributing research that informed Microsoft’s strategic thinking around AI-assisted collaboration and the future of work.</li>
+</ul>
+
+<p><strong>Impact</strong></p>
+
+<p>My research informed industry report on the future of work and use of AI to improve meeting outcomes, see <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/New-Future-Of-Work-Report-2025.pdf">Microsoft Research - New Future of Work report 2025, page 50.</a></p>
+
+<p><img src="/images/content/MSR/patterns04.png" alt="" />
+<img src="/images/content/MSR/patterns05.png" alt="" />
+<em>Above: Automatic Pattern Identification: Behaviours when initiating turns and when initiating overlap during a turn. This type of automated visual analysis can be meaningful to compare different behaviours of meeting participants within a meeting series, and the basis of developing profiles of turn-taking behaviours.</em>
+<br /><br /></p>
+
+<p>This work also resulted in a peer-reviewed publication, which presents the scalable automatic process to categorize turn-taking patterns in remote meetings based on eyes-off analysis of meeting transcripts - see the publication <a href="https://dl.acm.org/doi/10.1145/3491101.3519612">here</a>.</p>
+
+<p>Key paper takeaways:</p>
+<ul>
+  <li>My analysis shows initial success characterizing people’s behaviours as either likely to continue or cede turns based on either the amount of overlap that they produce during other’s turns or the amount of overlap they experience in their own turns.</li>
+  <li>My research shows a promising GDPR-compliant approach of categorising overlapping talk and turn-taking behaviour in meetings and developing meeting behavioural profiles to assess meeting inclusion and outcomes.</li>
+</ul>
+
+
+    </div>
 </section>
 
 		</div>
@@ -157,14 +199,14 @@ Above: Automatic Pattern Identification: Behaviours when initiating turns and wh
 
 		
 		<a href="/" class="footer__title">
-			Lenia Margariti, PhD - IxD
+			Lenia Margariti, PhD
 		</a>
 		
 
 		<p class="footer__text"></p>
 
 		<div class="footer__copyright">
-			<span>© 2026 Lenia Margariti, PhD - IxD</span>
+			<span>© 2026 Lenia Margariti, PhD</span>
 			<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
 		</div>
 
