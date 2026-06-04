@@ -163,7 +163,7 @@
 
 .portfolio-item__out_title {
 	margin-top: 10px;
-	margin-bottom: 7px;
+	margin-bottom: 10px;
 	opacity: 0.8;
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-title-weight;
@@ -176,7 +176,7 @@
 
 	@include mq(laptop) {
 		font-size: $grid-item-subtitle-large;
-		font-weight: 700px;
+		// font-weight: 700px;
 		line-height: 1.2;
 	}
 
@@ -185,7 +185,7 @@
 
 .portfolio-item__out_timeline {
 	margin-top: 10px;
-	margin-bottom: 5px;
+	margin-bottom: 8px;
 	opacity: 0.6;
 	font-size: $grid-item-subtitle-extra-small;
 	font-weight: $grid-item-subtitle-weight;
@@ -221,3 +221,55 @@
 	opacity: 0.9;
 
 }
+
+
+// .animate{
+// 	animation: fadein 2s ease-in;
+// }
+// @keyframes fadein {
+
+//   from { opacity: 0; }
+
+//   to { opacity: 1; }
+
+// }
+
+// .animate{
+//    opacity: 0;
+//    transform: translateX(-15px);
+//    animation: fadeInLeft 2s ease-out forwards;
+// }
+// @keyframes fadeInLeft {
+
+//   from {
+
+//     opacity: 0;
+
+//     transform: translateX(-15px);
+
+//   }
+
+//   to {
+
+//     opacity: 1;
+
+//     transform: translateX(0);
+
+//   }
+// }
+
+// .animate{
+// animation: myAnim 2s ease 0s 1 normal forwards;
+// }
+
+// @keyframes myAnim {
+// 	0% {
+// 		opacity: 0;
+// 		transform: translateX(-50px);
+// 	}
+
+// 	100% {
+// 		opacity: 1;
+// 		transform: translateX(0);
+// 	}
+// }
