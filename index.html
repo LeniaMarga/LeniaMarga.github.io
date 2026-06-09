@@ -26,8 +26,8 @@ featured_image: /images/social.jpg
 		<div class="portfolio-item" style="margin-bottom: 40px;">
             <a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 				<div class="parent" style="margin-bottom: 10px;">
-				   <div class="child"><h4 class="portfolio-item__out_title" style="color: black; font-weight: 600;">{{ project.title }}</h4> </div>
-				   <div class="child"><h4 class="portfolio-item__out_timeline" style="color: black;"> &nbsp;{{ project.timeline }}</h4> </div>
+				   <div class="child portfolio-item__out_title"><p style="color: black"><strong>{{ project.title }}</strong>&nbsp;&nbsp;{{ project.company }}</p></div>
+				   <!-- <div class="child"><h4 class="portfolio-item__out_timeline" style="color: black;"> &nbsp;{{ project.company }}</h4> </div> -->
 				</div>
 			</a>
 			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
@@ -43,13 +43,19 @@ featured_image: /images/social.jpg
 						<p class="portfolio-item__details">{{ project.description }}</p>
 					</div>
 				</div>
-
 			</a>
+                <div class="parent" style="margin-top: 10px;">
+				  	 		   {% assign items = project.whatisit  | split: "|" %}
+                                {% for item in items %}
+					                <div class="child" style="border:1px solid #8d8d8d; border-radius:15px; margin-top: 6px; padding:4px; ">
+			                             <p class="portfolio-item__out_timeline" style="color: black;"> &nbsp;{{ item | strip }}&nbsp;</p> 
+					                </div>
+                            	{% endfor %}
 
-		</div>
+				</div>
+		</div>  
 
-		{% endfor %}
-
+	{% endfor %}
 	</div>
 
 </section>

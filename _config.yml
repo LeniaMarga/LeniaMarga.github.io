@@ -15,7 +15,7 @@ collections:
     permalink: /project/:slug
   research_projects:
     output: true
-    permalink: /research/:slug
+    permalink: /writing/:slug
   designs:
     output: true
     permalink: /design/:slug

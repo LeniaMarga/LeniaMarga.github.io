@@ -16,7 +16,7 @@ featured_image:
 <p>I am a Product & UX Research Lead with expertise in AI-enabled systems, human-centred innovation and complex stakeholder environments.
 I am experienced in leading user discovery, translating research insights into product decisions, facilitating cross-functional collaboration, and shaping digital products from early concept through validation. Strong background in healthcare technology, participatory design, qualitative research, and AI-assisted design workflows.</p>
 
-<p>In the past years, I have worked in Newcastle University (Open Lab, School of Computing), Microsoft Research (internship), Telecomunications (COSMOTE-T, IT D&I) and for start up design agencies in UX Research & Design, Digital Transformation and Product Design roles.</p>
+<p>In the past years, I have worked in School of Computing Newcastle University (UK), Microsoft Research (UK), COSMOTE / Deutsche Telecom (GR) and for start up design agencies (employment & freelance) in UX Research & Design, Digital Transformation, Visual Design and Architectural Design roles.</p>
 
 </div>
 
